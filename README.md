@@ -22,7 +22,10 @@ Data Collection:
 Categories included:Energy consumption | Transport | Food | Household activities
 
 # Repo Structure 
-
+- 1 Full Excel Dashboard with Data inputs, Calculations, Trend Visualisations etc.
+- 1 Sensitivity Analysis Excel Dashboard with visualisations and trend identification
+- 2 R scripts for Emissions Plots by Category and Emissions Over time (sensitivity analysis)
+- 2 Pings depicting the above
 
 # Emissions Calculation
 Applied UK Government DEFRA/BEIS emission factors (2024)
