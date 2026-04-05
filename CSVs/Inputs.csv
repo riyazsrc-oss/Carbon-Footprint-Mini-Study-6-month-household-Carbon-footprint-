@@ -1,0 +1,10 @@
+Category,Activity,Unit,Emission Factor (kg CO2e per unit)
+Electricity,Grid electricity,kWh,0.165
+Natural Gas,Boiler heating,kWh,0.184
+Transport - Merceded Auto (diesel),Diesel car travel,km,0.11200
+Transport - VW Passat auto (diesel),Diesel car travel,km,0.12500
+Transport - Public (rail),Rail travel,km,0.041
+Transport - Public (plane),Short Haul flight ,km ,0.18287
+Waste - General (landfill),General waste (landfill),kg,0.467
+Water - Supply,Water supply,m3,0.15311
+Waste - Recycling (mixed),Recycling (mixed),kg,0.02
