@@ -1,7 +1,6 @@
 # Carbon-Footprint-Mini-Study-6-month-household-Carbon-footprint-
 **Portfolio Project | Carbon Accounting & ESG Analysis**
-This project analyses a 6-month household carbon footprint using real consumption data to quantify emissions across Scope 1–3 categories. The study was designed to simulate real-world carbon accounting and policy analysis, with a focus on identifying key emission drivers and actionable reduction strategies. This was an early stage project I conducted whilst developing my R skills. 
-
+This project analyses a 6-month household carbon footprint using real consumption data to quantify emissions across Scope 1–3 categories. The study was designed to simulate real-world carbon accounting and policy analysis, with a focus on identifying key emission drivers and actionable reduction strategies. 
 # Aims 
 - Quantify household carbon emissions across multiple categories.
 - Identify high-impact emission drivers using data analysis.
@@ -11,9 +10,9 @@ This project analyses a 6-month household carbon footprint using real consumptio
 
 # Motivation
 This project was undertaken to:
-- Develop practical experience in environmental data analysis.
+- Develop practical experience in environmental/carbon data analysis.
 - Bridge the gap between academic theory and real-world application.
-- Build core skills in Python, R, and Excel for sustainability analytics.
+- Expand on core skills in Python, R, and Excel for sustainability analytics.
 It served as a first large-scale independent project, leading into more advanced ESG analysis work.
 
 # Methodoloy
